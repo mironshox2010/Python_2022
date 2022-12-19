@@ -1,1 +1,2 @@
-CODECSCHOOLUZ
+CODECSCHOOLUZ oquchisi
+ibragimov mironshoh
